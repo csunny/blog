@@ -3,8 +3,8 @@ title: IPFS架构概述
 date: 2018-09-17 19:13:43
 tags:
 - IPFS
-categories:
 - 架构
+categories:
 - IPFS
 ---
 
